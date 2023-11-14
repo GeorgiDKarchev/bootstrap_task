@@ -1,0 +1,15 @@
+body{
+    background: gray;
+}
+.main-color-bg{
+    background-color:#4d68e3!important;
+    color:rgb(224, 227, 244)!important;
+    
+}
+nav{
+    margin-bottom: 20px;
+}
+#main {
+    height: 1200px;
+
+}
